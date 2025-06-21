@@ -18,7 +18,7 @@ Click here to play the [Simon Game](https://shivangogupta.github.io/SIMON_GAME/)
 - CSS
 - JavaScript
 
-#🧩 How to Play
+# 🧩 How to Play
 - Click the Start button or press any key to begin.
 - Watch the sequence of flashing colors.
 - Repeat the exact sequence by clicking the colored buttons.
